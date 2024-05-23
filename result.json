@@ -955,20 +955,6 @@
   },
   {
     "type": "node",
-    "id": 6404092172,
-    "lat": -7.2854645,
-    "lon": 112.7815928,
-    "tags": {
-      "addr:city": "SURABAYA",
-      "addr:housenumber": "JL.MANYAR KERTOADI 1/701",
-      "addr:postcode": "60117",
-      "addr:street": "JALAN MANYAR KERTOADI",
-      "amenity": "police",
-      "name": "POLSEK SUKOLILO"
-    }
-  },
-  {
-    "type": "node",
     "id": 6422560974,
     "lat": -7.2875402,
     "lon": 112.7775935,
@@ -2098,47 +2084,6 @@
   },
   {
     "type": "way",
-    "id": 119488176,
-    "center": {
-      "lat": -7.2795736,
-      "lon": 112.7972841
-    },
-    "nodes": [
-      1342455582,
-      1342455615,
-      1342455667,
-      2535856701,
-      2108365985,
-      1342455694,
-      1342455691,
-      1342455595,
-      1342455642,
-      1342455666,
-      1342455644,
-      1342455668,
-      1342455596,
-      1342455622,
-      1342455582
-    ],
-    "tags": {
-      "addr:city": "Surabaya",
-      "addr:housename": "Gedung Teknik Informatika",
-      "addr:postcode": "60111",
-      "addr:street": "Jalan Teknik Kimia",
-      "building": "university",
-      "building:levels": "4",
-      "building:roof": "tile",
-      "building:structure": "reinforced_masonry",
-      "building:use": "education",
-      "building:walls": "brick",
-      "int_name": "Informatics Department of ITS",
-      "name": "Informatika",
-      "operator": "Institut Teknologi Sepuluh Nopember",
-      "website": "http://if.it.ac.id/"
-    }
-  },
-  {
-    "type": "way",
     "id": 119488177,
     "center": {
       "lat": -7.2790105,
@@ -2573,32 +2518,6 @@
     "tags": {
       "building": "dormitory",
       "name": "Asrama ITS"
-    }
-  },
-  {
-    "type": "way",
-    "id": 119490387,
-    "center": {
-      "lat": -7.2763902,
-      "lon": 112.7929845
-    },
-    "nodes": [
-      1342471725,
-      1342471731,
-      1342471729,
-      1342471727,
-      1342471725
-    ],
-    "tags": {
-      "amenity": "place_of_worship",
-      "building": "mosque",
-      "building:levels": "2",
-      "building:material": "brick",
-      "building:structure": "reinforced_masonry",
-      "denomination": "sunni",
-      "name": "Musholla",
-      "religion": "muslim",
-      "roof:material": "tile"
     }
   },
   {
@@ -4980,29 +4899,6 @@
   },
   {
     "type": "way",
-    "id": 307246243,
-    "center": {
-      "lat": -7.2812347,
-      "lon": 112.7974441
-    },
-    "nodes": [
-      3123400750,
-      3123400752,
-      3123400753,
-      3123400751,
-      3123400750
-    ],
-    "tags": {
-      "access:roof": "yes",
-      "building": "university",
-      "building:levels": "7",
-      "building:structure": "reinforced_masonry",
-      "building:walls": "brick",
-      "name": "Gedung Pusat Riset ITS"
-    }
-  },
-  {
-    "type": "way",
     "id": 307246244,
     "center": {
       "lat": -7.2814602,
@@ -6600,34 +6496,6 @@
       "healthcare": "clinic",
       "name": "Puskesmas Pembantu Gebang Putih",
       "operator:type": "government"
-    }
-  },
-  {
-    "type": "way",
-    "id": 446966495,
-    "center": {
-      "lat": -7.2897902,
-      "lon": 112.7970664
-    },
-    "nodes": [
-      4441760599,
-      4441760602,
-      6389930876,
-      4441760607,
-      4441760606,
-      4441760605,
-      4441760604,
-      4441760601,
-      4441760600,
-      4441760598,
-      4441760599
-    ],
-    "tags": {
-      "addr:full": "Jalan Arief Rahman Hakim",
-      "amenity": "school",
-      "name": "Yayasan YAPITA",
-      "operator:type": "private",
-      "school:type_idn": "smp,sma"
     }
   },
   {
@@ -14761,35 +14629,6 @@
   },
   {
     "type": "way",
-    "id": 682339759,
-    "center": {
-      "lat": -7.2897845,
-      "lon": 112.796701
-    },
-    "nodes": [
-      6389930870,
-      6389930871,
-      6389930872,
-      6389930873,
-      6389930874,
-      1374014716,
-      6389930875,
-      6389930876,
-      6389930877,
-      6389930870
-    ],
-    "tags": {
-      "addr:city": "Surabaya",
-      "addr:housenumber": "No 09",
-      "addr:postcode": "60111",
-      "addr:street": "JL. Arif Rahman Hakim No 09 Keputih Sukolilo, Surabaya Jawa Timur",
-      "building": "yes",
-      "name": "Pondok  Pesantren Darussalam",
-      "phone": "0877-3894-6046"
-    }
-  },
-  {
-    "type": "way",
     "id": 683302708,
     "center": {
       "lat": -7.3085766,
@@ -14838,30 +14677,6 @@
       "operator": "Kementerian Riset, Teknologi, dan Pendidikan Tinggi",
       "wikidata": "Q5358247",
       "wikipedia": "id:Politeknik Elektronika Negeri Surabaya"
-    }
-  },
-  {
-    "type": "way",
-    "id": 683694999,
-    "center": {
-      "lat": -7.2854703,
-      "lon": 112.7816265
-    },
-    "nodes": [
-      3124475311,
-      3124475312,
-      3124475314,
-      3124475313,
-      3124475311
-    ],
-    "tags": {
-      "addr:city": "SURABAYA",
-      "addr:housenumber": "JL.MANYAR KERTOADI 1/701",
-      "addr:postcode": "60117",
-      "addr:street": "JALAN KERTOADI",
-      "amenity": "police",
-      "building": "yes",
-      "name": "POLSEK SUKOLILO"
     }
   },
   {
@@ -15112,42 +14927,6 @@
       "building:levels": "11",
       "layer": "3",
       "name": "Gedung Pascasarjana PENS"
-    }
-  },
-  {
-    "type": "way",
-    "id": 844465450,
-    "center": {
-      "lat": -7.2850983,
-      "lon": 112.7814206
-    },
-    "nodes": [
-      7877283255,
-      7877283256,
-      7877283257,
-      7877283268,
-      7877283258,
-      7877283267,
-      7877283259,
-      7877283260,
-      7877283266,
-      7877283261,
-      7877283265,
-      7877283262,
-      7877283263,
-      7877283264,
-      7877283255
-    ],
-    "tags": {
-      "addr:city": "Surabaya",
-      "addr:housenumber": "1",
-      "addr:postcode": "60116",
-      "addr:street": "Jalan Manyar Kerta Adi I",
-      "building": "office",
-      "building:levels": "18",
-      "height": "78.4",
-      "name": "Telkom Landmark Tower",
-      "smoking": "isolated"
     }
   },
   {
@@ -16955,22 +16734,6 @@
   },
   {
     "type": "node",
-    "id": 6462351460,
-    "lat": -7.2609161,
-    "lon": 112.7869742,
-    "tags": {
-      "addr:city": "Surabaya",
-      "addr:postcode": "60115",
-      "addr:street": "Jalan Sutorejo",
-      "amenity": "place_of_worship",
-      "denomination": "islam",
-      "name": "Masjid Salman Alfarisi",
-      "religion": "muslim",
-      "service_times": "24"
-    }
-  },
-  {
-    "type": "node",
     "id": 6462410770,
     "lat": -7.2737256,
     "lon": 112.7967355,
@@ -17020,20 +16783,6 @@
     "tags": {
       "amenity": "place_of_worship",
       "name": "Masjid",
-      "religion": "muslim"
-    }
-  },
-  {
-    "type": "node",
-    "id": 6464366400,
-    "lat": -7.2754032,
-    "lon": 112.7929935,
-    "tags": {
-      "addr:city": "Kejawen Putih Tambak, Mulyorejo, Kota Surabaya, Jawa Timur, Indonesia",
-      "addr:postcode": "60115",
-      "addr:street": "Jalan Tegal Mulyorejo Baru",
-      "amenity": "place_of_worship",
-      "name": "Masjid Ahmad Yani",
       "religion": "muslim"
     }
   },
@@ -17560,36 +17309,6 @@
       "building:use": "government",
       "building:walls": "brick",
       "name": "Gedung Rektorat Universitas Airlangga Kampus C"
-    }
-  },
-  {
-    "type": "way",
-    "id": 121270332,
-    "center": {
-      "lat": -7.275404,
-      "lon": 112.7929678
-    },
-    "nodes": [
-      1358131723,
-      1358131732,
-      1358131701,
-      1358131695,
-      1358131723
-    ],
-    "tags": {
-      "addr:city": "Kejawen Putih Tambak, Mulyorejo, Kota Surabaya, Jawa Timur, Indonesia",
-      "addr:housenumber": "80 -81",
-      "addr:postcode": "60112",
-      "addr:street": "Jalan Tegal Mulyorejo Baru",
-      "amenity": "place_of_worship",
-      "building": "mosque",
-      "building:levels": "1",
-      "building:material": "brick",
-      "building:structure": "reinforced_masonry",
-      "denomination": "sunni",
-      "name": "Masjid Ahmad Yani",
-      "religion": "muslim",
-      "roof:material": "concrete"
     }
   },
   {
@@ -19407,37 +19126,6 @@
       "capacity:persons": "50-100",
       "name": "Gereja Reformed Injili Indonesia",
       "religion": "christian"
-    }
-  },
-  {
-    "type": "way",
-    "id": 447356228,
-    "center": {
-      "lat": -7.2658,
-      "lon": 112.7906226
-    },
-    "nodes": [
-      4445128483,
-      4445128484,
-      4445128486,
-      4445128485,
-      4445128483
-    ],
-    "tags": {
-      "access:roof": "no",
-      "addr:full": "Jalan Sutorejo Tengah X No 2-4",
-      "amenity": "place_of_worship",
-      "backup_generator": "no",
-      "building": "mosque",
-      "building:condition": "good",
-      "building:floor": "ceramics",
-      "building:levels": "1",
-      "building:roof": "tile",
-      "building:structure": "confined_masonry",
-      "building:walls": "brick",
-      "capacity:persons": "50-100",
-      "name": "Masjid Al Iman",
-      "religion": "muslim"
     }
   },
   {
@@ -21814,37 +21502,6 @@
       "building:walls": "concrete",
       "capacity:persons": "50-100",
       "name": "Masjid Baiturrohim",
-      "religion": "muslim"
-    }
-  },
-  {
-    "type": "way",
-    "id": 450698651,
-    "center": {
-      "lat": -7.2608983,
-      "lon": 112.7870085
-    },
-    "nodes": [
-      4476184661,
-      4476184665,
-      4476184664,
-      4476184656,
-      4476184661
-    ],
-    "tags": {
-      "access:roof": "no",
-      "addr:full": "Jalan Sutorejo No 11 D",
-      "amenity": "place_of_worship",
-      "backup_generator": "no",
-      "building": "mosque",
-      "building:condition": "good",
-      "building:floor": "ceramics",
-      "building:levels": "1",
-      "building:roof": "tile",
-      "building:structure": "confined_masonry",
-      "building:walls": "brick",
-      "capacity:persons": "50-100",
-      "name": "Masjid Salman Al Farisi",
       "religion": "muslim"
     }
   },
