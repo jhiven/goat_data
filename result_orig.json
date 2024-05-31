@@ -362,6 +362,20 @@
   },
   {
     "type": "node",
+    "id": 4191486954,
+    "lat": -7.2741001,
+    "lon": 112.7821352,
+    "tags": {
+      "addr:city": "Mulyorejo, Surabaya, East Java",
+      "addr:housenumber": "Galaxy Mall No 35-37",
+      "addr:postcode": "60115",
+      "addr:street": "Jl. Dharmahusada Indah Timur X",
+      "name": "Sogo",
+      "shop": "clothes"
+    }
+  },
+  {
+    "type": "node",
     "id": 4191509711,
     "lat": -7.2801062,
     "lon": 112.7817642,
@@ -806,6 +820,17 @@
   },
   {
     "type": "node",
+    "id": 5897591862,
+    "lat": -7.2808876,
+    "lon": 112.7779573,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Surabaya Heart & Vascular Clinic"
+    }
+  },
+  {
+    "type": "node",
     "id": 5897591863,
     "lat": -7.2809355,
     "lon": 112.7791348,
@@ -857,6 +882,17 @@
   },
   {
     "type": "node",
+    "id": 5897591868,
+    "lat": -7.2800734,
+    "lon": 112.7644148,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Yung Ho"
+    }
+  },
+  {
+    "type": "node",
     "id": 5897591869,
     "lat": -7.2801373,
     "lon": 112.7650559,
@@ -875,6 +911,17 @@
       "amenity": "restaurant",
       "cuisine": "japanese",
       "name": "Bekyu"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5897591871,
+    "lat": -7.2801878,
+    "lon": 112.7654904,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Hakata Ikkousha"
     }
   },
   {
@@ -1073,6 +1120,18 @@
   },
   {
     "type": "node",
+    "id": 5897593895,
+    "lat": -7.2802038,
+    "lon": 112.7749291,
+    "tags": {
+      "alt_name": "Botanika Restaurant",
+      "amenity": "restaurant",
+      "cuisine": "indonesian",
+      "name": "Botanika"
+    }
+  },
+  {
+    "type": "node",
     "id": 5897593896,
     "lat": -7.2801852,
     "lon": 112.7731776,
@@ -1083,6 +1142,18 @@
       "name": "Bank Woori Saudara",
       "opening_hours": "07:00-15:00",
       "operator": "Bank Woori Saudara"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5912420218,
+    "lat": -7.2805409,
+    "lon": 112.7690652,
+    "tags": {
+      "alt_name": "Galbisal Korean BBQ",
+      "amenity": "restaurant",
+      "cuisine": "korean",
+      "name": "Galbisal"
     }
   },
   {
@@ -1147,6 +1218,17 @@
       "brand:wikipedia": "en:Pizza Hut",
       "cuisine": "pizza",
       "name": "Pizza Hut"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6417117693,
+    "lat": -7.2763965,
+    "lon": 112.7817848,
+    "tags": {
+      "brand": "Periplus",
+      "name": "Periplus",
+      "shop": "books"
     }
   },
   {
@@ -1330,6 +1412,22 @@
   },
   {
     "type": "node",
+    "id": 6462351460,
+    "lat": -7.2609161,
+    "lon": 112.7869742,
+    "tags": {
+      "addr:city": "Surabaya",
+      "addr:postcode": "60115",
+      "addr:street": "Jalan Sutorejo",
+      "amenity": "place_of_worship",
+      "denomination": "islam",
+      "name": "Masjid Salman Alfarisi",
+      "religion": "muslim",
+      "service_times": "24"
+    }
+  },
+  {
+    "type": "node",
     "id": 6462410770,
     "lat": -7.2737256,
     "lon": 112.7967355,
@@ -1384,6 +1482,20 @@
   },
   {
     "type": "node",
+    "id": 6464366400,
+    "lat": -7.2754032,
+    "lon": 112.7929935,
+    "tags": {
+      "addr:city": "Kejawen Putih Tambak, Mulyorejo, Kota Surabaya, Jawa Timur, Indonesia",
+      "addr:postcode": "60115",
+      "addr:street": "Jalan Tegal Mulyorejo Baru",
+      "amenity": "place_of_worship",
+      "name": "Masjid Ahmad Yani",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "node",
     "id": 6770960662,
     "lat": -7.2784139,
     "lon": 112.7631941,
@@ -1416,6 +1528,17 @@
       "name": "Domino's Pizza",
       "short_name": "Domino's",
       "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6862762514,
+    "lat": -7.2796989,
+    "lon": 112.7627581,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "kebab",
+      "name": "Container Kebab"
     }
   },
   {
@@ -1486,6 +1609,29 @@
   },
   {
     "type": "node",
+    "id": 7496871491,
+    "lat": -7.2763392,
+    "lon": 112.780624,
+    "tags": {
+      "brand": "Samsung",
+      "brand:wikidata": "Q20718",
+      "brand:wikipedia": "en:Samsung Electronics",
+      "name": "Samsung",
+      "shop": "electronics"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7496871492,
+    "lat": -7.2764163,
+    "lon": 112.7806187,
+    "tags": {
+      "name": "Huawei Galaxy Mall",
+      "shop": "mobile_phone"
+    }
+  },
+  {
+    "type": "node",
     "id": 7496871493,
     "lat": -7.2764882,
     "lon": 112.7805972,
@@ -1526,12 +1672,35 @@
   },
   {
     "type": "node",
+    "id": 7496871497,
+    "lat": -7.2739925,
+    "lon": 112.7821422,
+    "tags": {
+      "name": "Toko Gunung Agung",
+      "shop": "books"
+    }
+  },
+  {
+    "type": "node",
     "id": 7496871498,
     "lat": -7.274208,
     "lon": 112.7820268,
     "tags": {
       "name": "USUPSO",
       "shop": "convenience"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7496871501,
+    "lat": -7.2744102,
+    "lon": 112.7823058,
+    "tags": {
+      "brand": "Samsung",
+      "brand:wikidata": "Q20718",
+      "brand:wikipedia": "en:Samsung Electronics",
+      "name": "Samsung",
+      "shop": "electronics"
     }
   },
   {
@@ -1543,6 +1712,16 @@
       "amenity": "ice_cream",
       "name": "Sour Sally",
       "outdoor_seating": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7496871504,
+    "lat": -7.2750461,
+    "lon": 112.7823863,
+    "tags": {
+      "name": "Indosat",
+      "shop": "telecommunication"
     }
   },
   {
@@ -1838,6 +2017,36 @@
       "building:use": "government",
       "building:walls": "brick",
       "name": "Gedung Rektorat Universitas Airlangga Kampus C"
+    }
+  },
+  {
+    "type": "way",
+    "id": 121270332,
+    "center": {
+      "lat": -7.275404,
+      "lon": 112.7929678
+    },
+    "nodes": [
+      1358131723,
+      1358131732,
+      1358131701,
+      1358131695,
+      1358131723
+    ],
+    "tags": {
+      "addr:city": "Kejawen Putih Tambak, Mulyorejo, Kota Surabaya, Jawa Timur, Indonesia",
+      "addr:housenumber": "80 -81",
+      "addr:postcode": "60112",
+      "addr:street": "Jalan Tegal Mulyorejo Baru",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "1",
+      "building:material": "brick",
+      "building:structure": "reinforced_masonry",
+      "denomination": "sunni",
+      "name": "Masjid Ahmad Yani",
+      "religion": "muslim",
+      "roof:material": "concrete"
     }
   },
   {
@@ -2619,6 +2828,39 @@
   },
   {
     "type": "way",
+    "id": 311268597,
+    "center": {
+      "lat": -7.2810111,
+      "lon": 112.7805589
+    },
+    "nodes": [
+      3168658125,
+      3168658126,
+      3168659688,
+      4451272723,
+      4451272720,
+      3168659687,
+      3168658125
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Kertajaya Indah No IV / 5 Surabaya",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "2",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "concrete",
+      "capacity:persons": "100-250",
+      "name": "Masjid KONI",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "way",
     "id": 311268602,
     "center": {
       "lat": -7.2810298,
@@ -3213,6 +3455,39 @@
   },
   {
     "type": "way",
+    "id": 447148474,
+    "center": {
+      "lat": -7.2669043,
+      "lon": 112.7991511
+    },
+    "nodes": [
+      3144694981,
+      3144695010,
+      3144695011,
+      3144694990,
+      4443329416,
+      4443329408,
+      3144694981
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Bhaskara Sari No 47",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "church",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "concrete",
+      "capacity:persons": "50-100",
+      "name": "Gereja Jemaat Bhaskara",
+      "religion": "christian"
+    }
+  },
+  {
+    "type": "way",
     "id": 447169339,
     "center": {
       "lat": -7.2714148,
@@ -3312,6 +3587,67 @@
   },
   {
     "type": "way",
+    "id": 447348341,
+    "center": {
+      "lat": -7.2781279,
+      "lon": 112.7735675
+    },
+    "nodes": [
+      4445075093,
+      4445075092,
+      4445075103,
+      4445075104,
+      4445075093
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Kertajaya Indah II/ 3 F 628",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "church",
+      "building:condition": "good",
+      "building:levels": "2",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "concrete",
+      "capacity:persons": "50-100",
+      "name": "Gereja Reformed Injili Indonesia",
+      "religion": "christian"
+    }
+  },
+  {
+    "type": "way",
+    "id": 447356228,
+    "center": {
+      "lat": -7.2658,
+      "lon": 112.7906226
+    },
+    "nodes": [
+      4445128483,
+      4445128484,
+      4445128486,
+      4445128485,
+      4445128483
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Sutorejo Tengah X No 2-4",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "50-100",
+      "name": "Masjid Al Iman",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "way",
     "id": 447365083,
     "center": {
       "lat": -7.2654504,
@@ -3353,6 +3689,37 @@
       "capacity:persons": "<50",
       "name": "PAUD Al Iman",
       "operator:type": "private"
+    }
+  },
+  {
+    "type": "way",
+    "id": 447371828,
+    "center": {
+      "lat": -7.2708779,
+      "lon": 112.792149
+    },
+    "nodes": [
+      4445243348,
+      4445243334,
+      4445243298,
+      4445243328,
+      4445243348
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Dharmahusada Mas VII",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "church",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "2",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "concrete",
+      "capacity:persons": "50-100",
+      "name": "Gereja Bethany Indonesia",
+      "religion": "christian"
     }
   },
   {
@@ -3446,6 +3813,42 @@
   },
   {
     "type": "way",
+    "id": 448073094,
+    "center": {
+      "lat": -7.2802832,
+      "lon": 112.7666201
+    },
+    "nodes": [
+      4451238434,
+      4451238470,
+      4451238471,
+      4451238469,
+      4451238457,
+      4451238433,
+      4451238434
+    ],
+    "tags": {
+      "access:roof": "no",
+      "amenity": "bank",
+      "atm": "yes",
+      "backup_generator": "yes",
+      "brand": "UOB",
+      "brand:wikidata": "Q2064074",
+      "brand:wikipedia": "en:United Overseas Bank",
+      "building": "bank",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "glass",
+      "capacity:persons": "50-100",
+      "name": "UOB",
+      "operator": "United Overseas Bank"
+    }
+  },
+  {
+    "type": "way",
     "id": 448112705,
     "center": {
       "lat": -7.2582648,
@@ -3533,6 +3936,36 @@
       "amenity": "post_office",
       "building": "yes",
       "name": "Kantor Pos Kenjeran"
+    }
+  },
+  {
+    "type": "way",
+    "id": 448176209,
+    "center": {
+      "lat": -7.2480217,
+      "lon": 112.79247
+    },
+    "nodes": [
+      4452119631,
+      4452119632,
+      4452119634,
+      4452119633,
+      4452119631
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jakan Tugiman No. 2",
+      "amenity": "post_office",
+      "backup_generator": "yes",
+      "building": "post_office",
+      "building:condition": "average",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "50-100",
+      "name": "Kantor Pos"
     }
   },
   {
@@ -4007,6 +4440,49 @@
   },
   {
     "type": "way",
+    "id": 448268701,
+    "center": {
+      "lat": -7.2679346,
+      "lon": 112.8003618
+    },
+    "nodes": [
+      4452938776,
+      4452938777,
+      4452941839,
+      4452941840,
+      4452941842,
+      4452942200,
+      4452937700,
+      4452942221,
+      4452937701,
+      4452942222,
+      4452941841,
+      4452942199,
+      4452938775,
+      4452941838,
+      4452938774,
+      4452941837,
+      4452938776
+    ],
+    "tags": {
+      "access:roof": "yes",
+      "addr:full": "Jalan Bhaskara III No 19",
+      "amenity": "place_of_worship",
+      "backup_generator": "yes",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "2",
+      "building:roof": "concrete",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "50-100",
+      "name": "Masjid Syamsul Falaah",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "way",
     "id": 448291487,
     "center": {
       "lat": -7.2821869,
@@ -4068,6 +4544,41 @@
       "building": "yes",
       "building:levels": "1",
       "name": "Andry Palace Kenjeran"
+    }
+  },
+  {
+    "type": "way",
+    "id": 448426614,
+    "center": {
+      "lat": -7.2737263,
+      "lon": 112.796666
+    },
+    "nodes": [
+      4454358428,
+      4454358427,
+      4454358396,
+      4454358397,
+      4454358395,
+      4454358410,
+      4454360433,
+      4454360418,
+      4454358428
+    ],
+    "tags": {
+      "access:roof": "yes",
+      "addr:full": "Jalan Wisma Permai I Nomer 100",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "concrete",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "100-250",
+      "name": "Masjid Masyithoh",
+      "religion": "muslim"
     }
   },
   {
@@ -4213,6 +4724,96 @@
   },
   {
     "type": "way",
+    "id": 448770797,
+    "center": {
+      "lat": -7.2791325,
+      "lon": 112.7637912
+    },
+    "nodes": [
+      4457510770,
+      4457510761,
+      4457510745,
+      4457510756,
+      4457510758,
+      4457510759,
+      4457510760,
+      4457510764,
+      4457510776,
+      4457510775,
+      4457510773,
+      4457510770
+    ],
+    "tags": {
+      "access:roof": "yes",
+      "addr:full": "Jalan Manyar Kertoarjo No 2 Surabaya",
+      "admin_level": "5",
+      "backup_generator": "no",
+      "building": "government_office",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "3",
+      "building:roof": "concrete",
+      "building:structure": "confined_masonry",
+      "building:walls": "concrete",
+      "capacity:persons": ">500",
+      "name": "Samsat Manyar Surabaya",
+      "office": "government"
+    }
+  },
+  {
+    "type": "way",
+    "id": 448770801,
+    "center": {
+      "lat": -7.2791053,
+      "lon": 112.7631923
+    },
+    "nodes": [
+      4457510754,
+      4457510757,
+      4457510771,
+      4457510769,
+      4457510754
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Raya Menur Nomer 31 Surabaya",
+      "amenity": "police",
+      "backup_generator": "no",
+      "building": "police",
+      "building:condition": "average",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "50-100",
+      "name": "Satlantas Polrestabes Surabaya"
+    }
+  },
+  {
+    "type": "way",
+    "id": 448770802,
+    "center": {
+      "lat": -7.2790927,
+      "lon": 112.7631051
+    },
+    "nodes": [
+      4457510751,
+      4457510752,
+      4457510768,
+      4457510767,
+      4457510751
+    ],
+    "tags": {
+      "addr:city": "Surabaya",
+      "addr:street": "Kertajaya",
+      "building": "yes",
+      "name": "Kantor Pendapatan Daerah Surabaya",
+      "office": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 448770803,
     "center": {
       "lat": -7.279048,
@@ -4251,6 +4852,100 @@
       "capacity:persons": "50-100",
       "name": "Dinas Pendapatan Kota Surabaya",
       "office": "government"
+    }
+  },
+  {
+    "type": "way",
+    "id": 449151856,
+    "center": {
+      "lat": -7.2613952,
+      "lon": 112.7745633
+    },
+    "nodes": [
+      4461184946,
+      4461184937,
+      4461184942,
+      4461184947,
+      4461184946
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Kalijudan No. 22",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "2",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "50-100",
+      "name": "Masjid Amanah",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "way",
+    "id": 449296739,
+    "center": {
+      "lat": -7.2822434,
+      "lon": 112.7636431
+    },
+    "nodes": [
+      4462712621,
+      4462712622,
+      4462712624,
+      4462712623,
+      4462712621
+    ],
+    "tags": {
+      "access:roof": "yes",
+      "addr:full": "Jalan Manyar Sabrangan Nomer 43 Surabaya",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "2",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "concrete",
+      "capacity:persons": "50-100",
+      "name": "Masjid Al Anwar",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "way",
+    "id": 449296740,
+    "center": {
+      "lat": -7.2829862,
+      "lon": 112.7666446
+    },
+    "nodes": [
+      4462712627,
+      4462712625,
+      4462712626,
+      4462712628,
+      4462712627
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Manyar Sabrangan 9 Surabaya",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "2",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "50-100",
+      "name": "Masjid Al Hadits",
+      "religion": "muslim",
+      "wheelchair": "no"
     }
   },
   {
@@ -4336,6 +5031,37 @@
       "capacity:persons": "50-100",
       "name": "Gedung Serbaguna LKMK Mulyorejo",
       "office": "government"
+    }
+  },
+  {
+    "type": "way",
+    "id": 449476754,
+    "center": {
+      "lat": -7.2652904,
+      "lon": 112.7793044
+    },
+    "nodes": [
+      4464278118,
+      4464278117,
+      4464278124,
+      4464278125,
+      4464278118
+    ],
+    "tags": {
+      "access:roof": "yes",
+      "addr:full": "Jalan Mulyorejo Tengah 5",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "2",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "100-250",
+      "name": "Masjid Al-Machfudz",
+      "religion": "muslim"
     }
   },
   {
@@ -4831,6 +5557,71 @@
   },
   {
     "type": "way",
+    "id": 450507062,
+    "center": {
+      "lat": -7.2669658,
+      "lon": 112.7989085
+    },
+    "nodes": [
+      4474366158,
+      4650435203,
+      4650435202,
+      4474366159,
+      4650435201,
+      4474366161,
+      4474366160,
+      4474366158
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Bhaskara Mulyosari Surabaya",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "<50",
+      "name": "Masjid Alazka",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "way",
+    "id": 450507063,
+    "center": {
+      "lat": -7.2737827,
+      "lon": 112.8015429
+    },
+    "nodes": [
+      4474366198,
+      4474366199,
+      4474366203,
+      4474366201,
+      4474366198
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Kalisari Damen 40",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "average",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "50-100",
+      "name": "Masjid An Nur",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "way",
     "id": 450507064,
     "center": {
       "lat": -7.2606501,
@@ -4976,6 +5767,37 @@
   },
   {
     "type": "way",
+    "id": 450698649,
+    "center": {
+      "lat": -7.2615535,
+      "lon": 112.7874973
+    },
+    "nodes": [
+      4476184672,
+      4476184673,
+      4476184675,
+      4476184674,
+      4476184672
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Sutorejo No 21 C",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "glass",
+      "capacity:persons": "50-100",
+      "name": "Masjid Al Ihsan",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "way",
     "id": 450698650,
     "center": {
       "lat": -7.2611266,
@@ -5004,6 +5826,37 @@
       "building:walls": "concrete",
       "capacity:persons": "50-100",
       "name": "Masjid Baiturrohim",
+      "religion": "muslim"
+    }
+  },
+  {
+    "type": "way",
+    "id": 450698651,
+    "center": {
+      "lat": -7.2608983,
+      "lon": 112.7870085
+    },
+    "nodes": [
+      4476184661,
+      4476184665,
+      4476184664,
+      4476184656,
+      4476184661
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Sutorejo No 11 D",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "50-100",
+      "name": "Masjid Salman Al Farisi",
       "religion": "muslim"
     }
   },
@@ -5983,6 +6836,39 @@
   },
   {
     "type": "way",
+    "id": 470861800,
+    "center": {
+      "lat": -7.267454,
+      "lon": 112.7990688
+    },
+    "nodes": [
+      4650439503,
+      4650439504,
+      4650439505,
+      4650439506,
+      4650439502,
+      4650439508,
+      4650439509,
+      4650439507,
+      4650439503
+    ],
+    "tags": {
+      "access:roof": "no",
+      "amenity": "kindergarten",
+      "backup_generator": "no",
+      "building": "kindergarten",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "3",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "concrete",
+      "capacity:persons": "250-500",
+      "name": "TK Al - Azhar Kelapa Gading Surabaya"
+    }
+  },
+  {
+    "type": "way",
     "id": 470872309,
     "center": {
       "lat": -7.2802435,
@@ -6079,6 +6965,32 @@
       "building": "yes",
       "name": "Frank's Hotel",
       "tourism": "hotel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 474088345,
+    "center": {
+      "lat": -7.2605955,
+      "lon": 112.7952277
+    },
+    "nodes": [
+      4681101522,
+      4681101520,
+      4681101521,
+      4681101523,
+      4681101522
+    ],
+    "tags": {
+      "addr:city": "Mulyorejo",
+      "addr:housenumber": "PEE-11",
+      "addr:postcode": "60112",
+      "addr:street": "Jalan Raya Mulyosari",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "dermatology",
+      "name": "Ruko AKJ Aesthetic Center Pusat"
     }
   },
   {
@@ -6181,6 +7093,60 @@
       "building": "apartments",
       "building:levels": "50",
       "name": "One Galaxy"
+    }
+  },
+  {
+    "type": "way",
+    "id": 663236615,
+    "center": {
+      "lat": -7.2763632,
+      "lon": 112.7801903
+    },
+    "nodes": [
+      6208287445,
+      6416911592,
+      6208287448,
+      6208287447,
+      6208287446,
+      6208287444,
+      6208287465,
+      6208287464,
+      6208287463,
+      6208287462,
+      6208287461,
+      6208287457,
+      6208287458,
+      6208287459,
+      6208287460,
+      6208308288,
+      6208308287,
+      6208308286,
+      6208308285,
+      6208287484,
+      6208287483,
+      6208287482,
+      6208287481,
+      6208287480,
+      6208287479,
+      6208287478,
+      6208287477,
+      6208287476,
+      6208287475,
+      6208287474,
+      6208287473,
+      6208287472,
+      6208287471,
+      6208287467,
+      6208287468,
+      6208287469,
+      6208287470,
+      6208287466,
+      6208287445
+    ],
+    "tags": {
+      "building": "commercial",
+      "building:levels": "5",
+      "name": "Galaxy Mall 3"
     }
   },
   {
@@ -6356,6 +7322,31 @@
       "building:levels": "2",
       "name": "Papaya",
       "shop": "supermarket"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1147595077,
+    "center": {
+      "lat": -7.2608921,
+      "lon": 112.7879808
+    },
+    "nodes": [
+      10678157888,
+      10678157885,
+      10678157886,
+      10678157887,
+      10678157889,
+      10678157892,
+      10678157891,
+      10678157890,
+      10678157888
+    ],
+    "tags": {
+      "building": "university",
+      "building:levels": "3",
+      "name": "Student Center",
+      "operator": "Universitas Muhammadiyah Surabaya"
     }
   },
   {
@@ -7099,6 +8090,30 @@
       1340876238,
       4687965406,
       4687965409
+    ],
+    "tags": {
+      "building": "dormitory",
+      "building:levels": "3",
+      "building:roof": "tile",
+      "building:structure": "reinforced_masonry",
+      "building:use": "residential",
+      "building:walls": "brick",
+      "name": "Asrama PENS-ITS"
+    }
+  },
+  {
+    "type": "way",
+    "id": 119293458,
+    "center": {
+      "lat": -7.2759603,
+      "lon": 112.7959938
+    },
+    "nodes": [
+      1340876250,
+      1340876253,
+      1340876247,
+      1340876243,
+      1340876250
     ],
     "tags": {
       "building": "dormitory",
@@ -7898,6 +8913,32 @@
     "tags": {
       "building": "dormitory",
       "name": "Asrama ITS"
+    }
+  },
+  {
+    "type": "way",
+    "id": 119490387,
+    "center": {
+      "lat": -7.2763902,
+      "lon": 112.7929845
+    },
+    "nodes": [
+      1342471725,
+      1342471731,
+      1342471729,
+      1342471727,
+      1342471725
+    ],
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "2",
+      "building:material": "brick",
+      "building:structure": "reinforced_masonry",
+      "denomination": "sunni",
+      "name": "Musholla",
+      "religion": "muslim",
+      "roof:material": "tile"
     }
   },
   {
@@ -9749,6 +10790,33 @@
   },
   {
     "type": "way",
+    "id": 307159381,
+    "center": {
+      "lat": -7.2883055,
+      "lon": 112.7978881
+    },
+    "nodes": [
+      3122244668,
+      3122244680,
+      3122244689,
+      3122244677,
+      3122244668
+    ],
+    "tags": {
+      "addr:full": "Keputih Gang 1B",
+      "building": "amusement_arcade",
+      "building:condition": "average",
+      "building:floor": "ceramics",
+      "building:roof": "asbestos",
+      "building:structure": "reinforced_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "30",
+      "leisure": "amusement_arcade",
+      "name": "Kwik Print"
+    }
+  },
+  {
+    "type": "way",
     "id": 307159400,
     "center": {
       "lat": -7.2885807,
@@ -9858,6 +10926,29 @@
     "tags": {
       "building": "university",
       "name": "Mobil Listrik Nasional"
+    }
+  },
+  {
+    "type": "way",
+    "id": 307246243,
+    "center": {
+      "lat": -7.2812347,
+      "lon": 112.7974441
+    },
+    "nodes": [
+      3123400750,
+      3123400752,
+      3123400753,
+      3123400751,
+      3123400750
+    ],
+    "tags": {
+      "access:roof": "yes",
+      "building": "university",
+      "building:levels": "7",
+      "building:structure": "reinforced_masonry",
+      "building:walls": "brick",
+      "name": "Gedung Pusat Riset ITS"
     }
   },
   {
@@ -9989,6 +11080,32 @@
       "building:walls": "brick",
       "height": "6",
       "name": "Gedung Teater A"
+    }
+  },
+  {
+    "type": "way",
+    "id": 307246862,
+    "center": {
+      "lat": -7.2859477,
+      "lon": 112.7945809
+    },
+    "nodes": [
+      3123405359,
+      3123405365,
+      3123405364,
+      3123405361,
+      3123405362,
+      3123405357,
+      3123405359
+    ],
+    "tags": {
+      "access:roof": "yes",
+      "building": "university",
+      "building:levels": "3",
+      "building:roof": "tile",
+      "building:structure": "reinforced_masonry",
+      "building:walls": "brick",
+      "name": "Biologi ITS"
     }
   },
   {
@@ -10464,6 +11581,29 @@
   },
   {
     "type": "way",
+    "id": 445055062,
+    "center": {
+      "lat": -7.2897875,
+      "lon": 112.8006821
+    },
+    "nodes": [
+      4425064167,
+      4425064168,
+      4425064169,
+      4425064170,
+      4425064167
+    ],
+    "tags": {
+      "addr:city": "Sukolilo, Surabaya, Jawa Timur",
+      "addr:postcode": "60111",
+      "addr:street": "Jalan Keputih Perintis 1",
+      "building": "yes",
+      "building:levels": "2",
+      "name": "Rumah dan Laundry"
+    }
+  },
+  {
+    "type": "way",
     "id": 445055355,
     "center": {
       "lat": -7.2896599,
@@ -10531,6 +11671,54 @@
       "building": "yes",
       "building:levels": "2",
       "name": "Rumah dan Kos Putra"
+    }
+  },
+  {
+    "type": "way",
+    "id": 445055835,
+    "center": {
+      "lat": -7.2896292,
+      "lon": 112.8009396
+    },
+    "nodes": [
+      4425068422,
+      4425068423,
+      4425068424,
+      4425068425,
+      4425068422
+    ],
+    "tags": {
+      "addr:city": "Sukolilo, Surabaya, Jawa Timur",
+      "addr:postcode": "60111",
+      "addr:street": "Jalan Keputih Perintis 1",
+      "building": "yes",
+      "building:levels": "2",
+      "name": "Kos Putra (AC)"
+    }
+  },
+  {
+    "type": "way",
+    "id": 445055862,
+    "center": {
+      "lat": -7.2894942,
+      "lon": 112.8003878
+    },
+    "nodes": [
+      4425070663,
+      4425070664,
+      4425070665,
+      4425070666,
+      4425070667,
+      4425070668,
+      4425070663
+    ],
+    "tags": {
+      "addr:city": "Sukolilo, Surabaya, Jawa Timur",
+      "addr:postcode": "60111",
+      "addr:street": "Jalan Keputih Perintis 1",
+      "building": "yes",
+      "building:levels": "2",
+      "name": "Kos Putra"
     }
   },
   {
@@ -10770,6 +11958,26 @@
       "capacity:persons": "50-100",
       "name": "PAUD Bina Insani",
       "operator:type": "community"
+    }
+  },
+  {
+    "type": "way",
+    "id": 447161940,
+    "center": {
+      "lat": -7.2956535,
+      "lon": 112.8019204
+    },
+    "nodes": [
+      4443432083,
+      4443432084,
+      4443432093,
+      4443432091,
+      4443432083
+    ],
+    "tags": {
+      "amenity": "toilets",
+      "building": "yes",
+      "name": "Toilet"
     }
   },
   {
@@ -11097,6 +12305,41 @@
   },
   {
     "type": "way",
+    "id": 448083014,
+    "center": {
+      "lat": -7.2898891,
+      "lon": 112.801018
+    },
+    "nodes": [
+      4451317071,
+      4451317082,
+      4451317106,
+      4451317105,
+      4451317126,
+      4451317122,
+      4451317094,
+      4451317091,
+      4451317071
+    ],
+    "tags": {
+      "access:roof": "yes",
+      "addr:full": "Jalan Keputih Perintis I No 10",
+      "amenity": "kindergarten",
+      "backup_generator": "no",
+      "building": "kindergarten",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "concrete",
+      "capacity:persons": "<50",
+      "name": "Play Group Bintang Kecil",
+      "operator:type": "community"
+    }
+  },
+  {
+    "type": "way",
     "id": 448094229,
     "center": {
       "lat": -7.288492,
@@ -11197,6 +12440,37 @@
       "name": "TK dan SD Petra 5",
       "operator:type": "private",
       "school:type_idn": "sd"
+    }
+  },
+  {
+    "type": "way",
+    "id": 448097584,
+    "center": {
+      "lat": -7.2891264,
+      "lon": 112.7830745
+    },
+    "nodes": [
+      4451446893,
+      4451446882,
+      4451446878,
+      4451446880,
+      4451446893
+    ],
+    "tags": {
+      "access:roof": "no",
+      "addr:full": "Jalan Arief Rachman Hakim 107-109",
+      "amenity": "place_of_worship",
+      "backup_generator": "no",
+      "building": "mosque",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "concrete",
+      "capacity:persons": "50-100",
+      "name": "Masjid Assakienah",
+      "religion": "muslim"
     }
   },
   {
@@ -11989,6 +13263,56 @@
   },
   {
     "type": "way",
+    "id": 485783914,
+    "center": {
+      "lat": -7.2946104,
+      "lon": 112.8018345
+    },
+    "nodes": [
+      4785489532,
+      4785489536,
+      4785489537,
+      4785489538,
+      4785489539,
+      4785489540,
+      4785489541,
+      4785489535,
+      4785489534,
+      4785489533,
+      4785489532
+    ],
+    "tags": {
+      "addr:full": "Jalan Keputih Tegal",
+      "amenity": "bus_station",
+      "bus": "yes",
+      "name": "Terminal Keputih",
+      "public_transport": "station"
+    }
+  },
+  {
+    "type": "way",
+    "id": 545835859,
+    "center": {
+      "lat": -7.288564,
+      "lon": 112.7976938
+    },
+    "nodes": [
+      5275175540,
+      5411445494,
+      9974186717,
+      5411445493,
+      5275175543,
+      5275175540
+    ],
+    "tags": {
+      "addr:city": "Keputih, Sukolilo, Surabaya, East Java",
+      "amenity": "library",
+      "building": "yes",
+      "name": "Taman Baca Masyarakat"
+    }
+  },
+  {
+    "type": "way",
     "id": 554649984,
     "center": {
       "lat": -7.28371,
@@ -12013,6 +13337,86 @@
       "building": "university",
       "building:levels": "3",
       "name": "Teknik Industri"
+    }
+  },
+  {
+    "type": "way",
+    "id": 682339759,
+    "center": {
+      "lat": -7.2897845,
+      "lon": 112.796701
+    },
+    "nodes": [
+      6389930870,
+      6389930871,
+      6389930872,
+      6389930873,
+      6389930874,
+      1374014716,
+      6389930875,
+      6389930876,
+      6389930877,
+      6389930870
+    ],
+    "tags": {
+      "addr:city": "Surabaya",
+      "addr:housenumber": "No 09",
+      "addr:postcode": "60111",
+      "addr:street": "JL. Arif Rahman Hakim No 09 Keputih Sukolilo, Surabaya Jawa Timur",
+      "building": "yes",
+      "name": "Pondok  Pesantren Darussalam",
+      "phone": "0877-3894-6046"
+    }
+  },
+  {
+    "type": "way",
+    "id": 685369238,
+    "center": {
+      "lat": -7.2891264,
+      "lon": 112.7830745
+    },
+    "nodes": [
+      4451446878,
+      4451446880,
+      4451446893,
+      4451446882,
+      4451446878
+    ],
+    "tags": {
+      "addr:city": "Keputih, Sukolilo, Surabaya, East Java",
+      "addr:housenumber": "107-109",
+      "addr:postcode": "60111",
+      "addr:street": "Jalan Arief Rahman Hakim",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "masjid assakienah",
+      "religion": "muslim",
+      "service_times": "5 waktu sholat"
+    }
+  },
+  {
+    "type": "way",
+    "id": 836931537,
+    "center": {
+      "lat": -7.276852,
+      "lon": 112.7932414
+    },
+    "nodes": [
+      7811041028,
+      7811041029,
+      7811041030,
+      7811041031,
+      7811041032,
+      7811041033,
+      7811041034,
+      7811041035,
+      7811041028
+    ],
+    "tags": {
+      "building": "university",
+      "building:levels": "11",
+      "layer": "3",
+      "name": "Gedung Pascasarjana PENS"
     }
   },
   {
@@ -12249,6 +13653,48 @@
       "description": "Bengkel prduksi propeller dengan mesin CNC 5-axis",
       "name": "Propeller Production",
       "office": "government"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1223749907,
+    "center": {
+      "lat": -7.2795838,
+      "lon": 112.7971981
+    },
+    "nodes": [
+      11350822743,
+      11350822744,
+      11350822745,
+      11350822746,
+      11350822743
+    ],
+    "tags": {
+      "building": "university",
+      "building:levels": "0",
+      "height": "3",
+      "name": "Plaza Supeno"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1223749908,
+    "center": {
+      "lat": -7.2800658,
+      "lon": 112.7970123
+    },
+    "nodes": [
+      11350822747,
+      11350822748,
+      11350822749,
+      11350822750,
+      11350822747
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "fast_food": "cafeteria",
+      "name": "Cafetaria Informatika"
     }
   }
 ]
