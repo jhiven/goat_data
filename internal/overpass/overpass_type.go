@@ -1,6 +1,6 @@
 package overpass
 
-import "github.com/jhiven/goat_data/haversine"
+import "github.com/jhiven/goat_data/internal/haversine"
 
 type Osm3sData struct {
 	TimestampOsm  string `json:"timestamp_osm_base"`

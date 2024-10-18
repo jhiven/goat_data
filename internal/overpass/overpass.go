@@ -7,6 +7,8 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"path/filepath"
+	"runtime"
 )
 
 func FetchOverpass(id uint, ch chan<- OverpassRes) {
@@ -64,7 +66,10 @@ out center;
 func GetElements() []Element {
 	var elements []Element
 
-	res, err := os.ReadFile("../output.json")
+	_, b, _, _ := runtime.Caller(0)
+	basepath := filepath.Dir(b)
+	res, err := os.ReadFile(fmt.Sprintf("%v/../output.json", basepath))
+
 	if err != nil {
 		fmt.Println("error open file")
 		panic(err)

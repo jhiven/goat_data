@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/jhiven/goat_data/overpass"
+	"github.com/jhiven/goat_data/internal/overpass"
 )
 
 func writeOutput(elements *[]overpass.Element) {
@@ -40,7 +40,7 @@ func writeOutput(elements *[]overpass.Element) {
 }
 
 func main() {
-	// jawa timur, jawa tengah, jawa barat, jakarta, yokyakarta, banten
+	// JAWA: jawa timur, jawa tengah, jawa barat, jakarta, yokyakarta, banten
 	ids := []uint{3603438227, 3602388357, 3602388361, 3606362934, 3605616105, 3602388356}
 	// Surabaya, Sidoarjo
 	// ids := []uint{3608225862, 3609677345}
@@ -57,6 +57,8 @@ func main() {
 	for range ids {
 		overpassElements = append(overpassElements, <-postprocessCh...)
 	}
+
+	overpassElements = overpass.RemoveDuplicate(overpassElements)
 
 	writeOutput(&overpassElements)
 }
