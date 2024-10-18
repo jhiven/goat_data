@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jhiven/goat_data/haversine"
+	"github.com/jhiven/goat_data/internal/haversine"
 )
 
 func TestOutputEachDistance(t *testing.T) {
@@ -31,7 +31,12 @@ func TestOutputEachDistance(t *testing.T) {
 
 			if got < 20 {
 				totalFail++
-				t.Errorf("fail: distance [%v] and [%v] is %v", *element.Tags.Name, *item.Tags.Name, got)
+				t.Errorf(
+					"fail: distance [%v] and [%v] is %v",
+					*element.Tags.Name,
+					*item.Tags.Name,
+					got,
+				)
 			}
 		}
 	}

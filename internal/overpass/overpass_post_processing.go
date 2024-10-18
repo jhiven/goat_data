@@ -3,30 +3,24 @@ package overpass
 import (
 	"fmt"
 
-	"github.com/jhiven/goat_data/haversine"
+	"github.com/jhiven/goat_data/internal/haversine"
 )
 
 const minDistance float64 = 20
 
 func PostProcessing(overpassCh <-chan OverpassRes, postprocessCh chan<- []Element) {
-	results := make([]Element, 0)
 	elements := (<-overpassCh).Elements
+	results := make([]Element, 0)
 	fmt.Println("Running post processing")
 
-	for i, element := range elements {
-		var latlon2 haversine.LatLon
+	for _, element := range elements {
 		latlon1 := element.GetLanLon()
 		isValid := true
 
-		for j, result := range results {
-			if i == 0 && j == 0 {
-				continue
-			}
-
-			latlon2 = result.GetLanLon()
+		for _, result := range results {
+			latlon2 := result.GetLanLon()
 			distance := haversine.DistanceInM(latlon1, latlon2)
 
-			// fmt.Printf("element: %v, item: %v, distance: %v\n", *e.Tags.Name, *item.Tags.Name, m)
 			if distance < minDistance {
 				fmt.Printf(
 					"[%v] is close to [%v] with distance: %v, REMOVING %v... \n",
@@ -51,7 +45,6 @@ func PostProcessing(overpassCh <-chan OverpassRes, postprocessCh chan<- []Elemen
 		}
 
 		if isValid {
-			// fmt.Printf("Appending element: %v\n", *e.Tags.Name)
 			results = append(results, element)
 		}
 	}
@@ -60,4 +53,23 @@ func PostProcessing(overpassCh <-chan OverpassRes, postprocessCh chan<- []Elemen
 	fmt.Printf("before: %v, after: %v\n", len(elements), len(results))
 
 	postprocessCh <- results
+}
+
+func RemoveDuplicate(sliceList []Element) []Element {
+	fmt.Println("Removing duplicates")
+	allKeys := make(map[uint]struct{})
+	list := make([]Element, 0)
+	for _, item := range sliceList {
+		if _, value := allKeys[item.ElementId]; !value {
+			allKeys[item.ElementId] = struct{}{}
+			list = append(list, item)
+		} else {
+			fmt.Printf(
+				"Duplicate id: %v, name: %v\n",
+				item.ElementId,
+				*item.Tags.Name,
+			)
+		}
+	}
+	return list
 }
